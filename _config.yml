@@ -10,7 +10,7 @@
 carpentry: "cp"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "Smithsonian Carpentries Instructor Training"
 
 
 #------------------------------------------------------------
@@ -41,7 +41,7 @@ swc_github: "https://github.com/swcarpentry"
 swc_pages: "https://swcarpentry.github.io"
 swc_site: "https://software-carpentry.org"
 template_repo: "https://github.com/carpentries/styles"
-training_site: "https://carpentries.github.io/instructor-training"
+training_site: "https://data-lessons.github.io/instructor-training"
 workshop_repo: "https://github.com/carpentries/workshop-template"
 workshop_site: "https://carpentries.github.io/workshop-template"
 cc_by_human: "https://creativecommons.org/licenses/by/4.0/"
