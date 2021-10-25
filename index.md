@@ -212,27 +212,23 @@ for more information.
 
 <hr/>
 
-<!--
+
 
 <div class="row">
   <div class="col-md-6">
     <h3>Day 1</h3>
     <table class="table table-striped">
-      <tr> <td>09:00</td> <td>Welcome </td> </tr>
-      <tr> <td>09:25</td> <td>Building Skill with Practice </td> </tr>
-      <tr> <td>10:25</td> <td>Expertise and Instruction </td> </tr>
-      <tr> <td>11:10</td> <td>Morning Break </td> </tr>
-      <tr> <td>11:25</td> <td>Memory and Cognitive Load </td> </tr>
-      <tr> <td>12:10</td> <td>Building Skill with Feedback </td> </tr>
-      <tr> <td>12:30</td> <td>Lunch </td> </tr>
-      <tr> <td>13:30</td> <td>Motivation and Demotivation </td> </tr>
-      <tr> <td>14:45</td> <td>Mindset </td> </tr>
-      <tr> <td>15:15</td> <td>Afternoon Break </td> </tr>
-      <tr> <td>15:30</td> <td>Teaching Is a Skill </td> </tr>
-      <tr> <td>16:40</td> <td>Wrap-up and Homework for Tomorrow </td> </tr>
-      <tr> <td>17:00</td> <td>Finish </td> </tr>
+      <tr> <td>13:00</td> <td>Welcome </td> </tr>
+      <tr> <td>13:30</td> <td>Building Skill with Practice </td> </tr>
+      <tr> <td>14:30</td> <td>Break </td> </tr>
+      <tr> <td>14:45</td> <td>Expertise and Instruction</td> </tr>
+      <tr> <td>15:30</td> <td>Memory and Cognitive Load </td> </tr>
+      <tr> <td>16:10</td> <td>Building Skill with Feedback </td> </tr>
+      <tr> <td>16:30</td> <td>End of Day One</td> </tr>
     </table>
   </div>
+</div>
+<!--
   <div class="col-md-6">
     <h3>Day 2</h3>
     <table class="table table-striped">
