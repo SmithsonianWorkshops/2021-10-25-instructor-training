@@ -10,7 +10,7 @@ enddate: 2021-11-02        # machine-readable end date for the workshop in YYYY-
 instructor: ["Vanessa Gonzalez","Mike Trizna", "Luis Villanueva"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: [""]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: ["triznam@si.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-etherpad:             # optional: URL for the workshop Etherpad if there is one
+etherpad: "https://pad.carpentries.org/2021-10-25-instructor-training"            # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
   - venue: "Online"
@@ -205,18 +205,9 @@ for more information.
 
 <h2 id="materials" name="materials">Training Materials and Schedule</h2>
 
-<p>
-  Please see <a href="{{ site.training_site }}">this site</a> for course material and tentative schedule.
-</p>
-
-
-<hr/>
-
-
-
 <div class="row">
   <div class="col-md-6">
-    <h3>Day 1</h3>
+    <h3>Day 1 (Oct 25)</h3>
     <table class="table table-striped">
       <tr> <td>13:00</td> <td>Welcome </td> </tr>
       <tr> <td>13:30</td> <td>Building Skill with Practice </td> </tr>
@@ -227,31 +218,44 @@ for more information.
       <tr> <td>16:30</td> <td>End of Day One</td> </tr>
     </table>
   </div>
-</div>
-<!--
   <div class="col-md-6">
-    <h3>Day 2</h3>
+    <h3>Day 2 (Oct 26)</h3>
     <table class="table table-striped">
-      <tr> <td>09:00</td> <td>Welcome Back </td> </tr>
-      <tr> <td>09:10</td> <td>Live Coding Is a Skill </td> </tr>
-      <tr> <td>10:20</td> <td>Preparing to Teach </td> </tr>
-      <tr> <td>11:10</td> <td>Morning Break </td> </tr>
-      <tr> <td>11:25</td> <td>More Practice Live Coding </td> </tr>
-      <tr> <td>12:10</td> <td>Managing a Diverse Classroom </td> </tr>
-      <tr> <td>12:40</td> <td>Lunch </td> </tr>
-      <tr> <td>13:40</td> <td>Checkout Process </td> </tr>
-      <tr> <td>13:55</td> <td>The Carpentries: How We Operate </td> </tr>
-      <tr> <td>15:10</td> <td>Afternoon Coffee </td> </tr>
-      <tr> <td>15:25</td> <td>Workshop Introductions </td> </tr>
-      <tr> <td>16:05</td> <td>Putting it Together </td> </tr>
-      <tr> <td>16:25</td> <td>Wraping Up </td> </tr>
-      <tr> <td>16:40</td> <td>Post-Training Survey </td> </tr>
-      <tr> <td>16:55</td> <td>Finish </td> </tr>
+      <tr> <td>13:00</td> <td>Motivation and Demotivation</td> </tr>
+      <tr> <td>14:00</td> <td>Equity, Inclusion, and Accessibility</td> </tr>
+      <tr> <td>14:40</td> <td>Break </td> </tr>
+      <tr> <td>14:55</td> <td>Teaching is a Skill</td> </tr>
+      <tr> <td>15:55</td> <td>Wrap-Up and Homework</td> </tr>
+      <tr> <td>16:30</td> <td>End of Day One</td> </tr>
     </table>
   </div>
 </div>
-
--->
+<div class="row">
+  <div class="col-md-6">
+    <h3>Day 3 (Nov 1)</h3>
+    <table class="table table-striped">
+      <tr> <td>13:00</td> <td>Welcome Back </td> </tr>
+      <tr> <td>13:10</td> <td>Getting Started on Instructor Certification</td> </tr>
+      <tr> <td>13:40</td> <td>The Carpentries: How We Operate </td> </tr>
+      <tr> <td>14:25</td> <td>Break </td> </tr>
+      <tr> <td>14:40</td> <td>Live Coding Is a Skill </td> </tr>
+      <tr> <td>15:45</td> <td>Preparing to Teach </td> </tr>
+      <tr> <td>16:30</td> <td>End of Day Three</td> </tr>
+    </table>
+  </div>
+  <div class="col-md-6">
+    <h3>Day 4 (Nov 2)</h3>
+    <table class="table table-striped">
+      <tr> <td>13:00</td> <td>More Practice Live Coding</td> </tr>
+      <tr> <td>13:45</td> <td>Working With Your Team</td> </tr>
+      <tr> <td>14:55</td> <td>Break</td> </tr>
+      <tr> <td>15:10</td> <td>Launches and Landings</td> </tr>
+      <tr> <td>15:50</td> <td>Putting it Together </td> </tr>
+      <tr> <td>16:10</td> <td>Wrapping Up </td> </tr>
+      <tr> <td>16:30</td> <td>End of Training!</td> </tr>
+    </table>
+  </div>
+</div>
 
 <!--
   ETHERPAD
