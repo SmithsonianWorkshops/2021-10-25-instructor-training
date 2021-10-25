@@ -209,24 +209,24 @@ for more information.
   <div class="col-md-6">
     <h3>Day 1 (Oct 25)</h3>
     <table class="table table-striped">
-      <tr> <td>13:00</td> <td>Welcome </td> </tr>
-      <tr> <td>13:30</td> <td>Building Skill with Practice </td> </tr>
+      <tr> <td>13:00</td> <td><a href='https://data-lessons.github.io/instructor-training/01-welcome/index.html' target='_blank'>Welcome</a></td> </tr>
+      <tr> <td>13:30</td> <td><a href='https://data-lessons.github.io/instructor-training/02-practice-learning/index.html' target='_blank'>Building Skill with Practice</a> </td> </tr>
       <tr> <td>14:30</td> <td>Break </td> </tr>
-      <tr> <td>14:45</td> <td>Expertise and Instruction</td> </tr>
-      <tr> <td>15:30</td> <td>Memory and Cognitive Load </td> </tr>
-      <tr> <td>16:10</td> <td>Building Skill with Feedback </td> </tr>
+      <tr> <td>14:45</td> <td><a href='https://data-lessons.github.io/instructor-training/04-expertise/index.html' target='_blank'>Expertise and Instruction</a></td> </tr>
+      <tr> <td>15:30</td> <td><a href='https://data-lessons.github.io/instructor-training/05-memory/index.html' target='_blank'>Memory and Cognitive Load</a> </td> </tr>
+      <tr> <td>16:10</td> <td><a href='https://data-lessons.github.io/instructor-training/06-feedback/index.html' target='_blank'>Building Skill with Feedback</a> </td> </tr>
       <tr> <td>16:30</td> <td>End of Day One</td> </tr>
     </table>
   </div>
   <div class="col-md-6">
     <h3>Day 2 (Oct 26)</h3>
     <table class="table table-striped">
-      <tr> <td>13:00</td> <td>Motivation and Demotivation</td> </tr>
-      <tr> <td>14:00</td> <td>Equity, Inclusion, and Accessibility</td> </tr>
+      <tr> <td>13:00</td> <td><a href='https://data-lessons.github.io/instructor-training/08-motivation/index.html' target='_blank'>Motivation and Demotivation</a></td> </tr>
+      <tr> <td>14:00</td> <td><a href='https://data-lessons.github.io/instructor-training/09-eia/index.html' target='_blank'>Equity, Inclusion, and Accessibility</a></td> </tr>
       <tr> <td>14:40</td> <td>Break </td> </tr>
-      <tr> <td>14:55</td> <td>Teaching is a Skill</td> </tr>
-      <tr> <td>15:55</td> <td>Wrap-Up and Homework</td> </tr>
-      <tr> <td>16:30</td> <td>End of Day One</td> </tr>
+      <tr> <td>14:55</td> <td><a href='https://data-lessons.github.io/instructor-training/11-practice-teaching/index.html' target='_blank'>Teaching is a Skill</a></td> </tr>
+      <tr> <td>15:55</td> <td><a href='https://data-lessons.github.io/instructor-training/12-homework/index.html' target='_blank'>Wrap-Up and Homework</a></td> </tr>
+      <tr> <td>16:30</td> <td>End of Day Two</td> </tr>
     </table>
   </div>
 </div>
@@ -234,24 +234,24 @@ for more information.
   <div class="col-md-6">
     <h3>Day 3 (Nov 1)</h3>
     <table class="table table-striped">
-      <tr> <td>13:00</td> <td>Welcome Back </td> </tr>
-      <tr> <td>13:10</td> <td>Getting Started on Instructor Certification</td> </tr>
-      <tr> <td>13:40</td> <td>The Carpentries: How We Operate </td> </tr>
+      <tr> <td>13:00</td> <td><a href='https://data-lessons.github.io/instructor-training/13-second-welcome/index.html' target='_blank'>Welcome Back</a></td> </tr>
+      <tr> <td>13:10</td> <td><a href='https://data-lessons.github.io/instructor-training/14-checkout/index.html' target='_blank'>Getting Started on Instructor Certification</a></td> </tr>
+      <tr> <td>13:40</td> <td><a href='https://data-lessons.github.io/instructor-training/15-carpentries/index.html' target='_blank'>The Carpentries: How We Operate</a> </td> </tr>
       <tr> <td>14:25</td> <td>Break </td> </tr>
-      <tr> <td>14:40</td> <td>Live Coding Is a Skill </td> </tr>
-      <tr> <td>15:45</td> <td>Preparing to Teach </td> </tr>
+      <tr> <td>14:40</td> <td><a href='https://data-lessons.github.io/instructor-training/17-live/index.html' target='_blank'>Live Coding Is a Skill</a> </td> </tr>
+      <tr> <td>15:45</td> <td><a href='https://data-lessons.github.io/instructor-training/18-preparation/index.html' target='_blank'>Preparing to Teach</a> </td> </tr>
       <tr> <td>16:30</td> <td>End of Day Three</td> </tr>
     </table>
   </div>
   <div class="col-md-6">
     <h3>Day 4 (Nov 2)</h3>
     <table class="table table-striped">
-      <tr> <td>13:00</td> <td>More Practice Live Coding</td> </tr>
-      <tr> <td>13:45</td> <td>Working With Your Team</td> </tr>
+      <tr> <td>13:00</td> <td><a href='https://data-lessons.github.io/instructor-training/20-performance/index.html' target='_blank'>More Practice Live Coding</a></td> </tr>
+      <tr> <td>13:45</td> <td><a href='https://data-lessons.github.io/instructor-training/21-management/index.html' target='_blank'>Working With Your Team</a></td> </tr>
       <tr> <td>14:55</td> <td>Break</td> </tr>
-      <tr> <td>15:10</td> <td>Launches and Landings</td> </tr>
-      <tr> <td>15:50</td> <td>Putting it Together </td> </tr>
-      <tr> <td>16:10</td> <td>Wrapping Up </td> </tr>
+      <tr> <td>15:10</td> <td><a href='https://data-lessons.github.io/instructor-training/23-introductions/index.html' target='_blank'>Launches and Landings</a></td> </tr>
+      <tr> <td>15:50</td> <td><a href='https://data-lessons.github.io/instructor-training/24-practices/index.html' target='_blank'>Putting it Together</a> </td> </tr>
+      <tr> <td>16:10</td> <td><a href='https://data-lessons.github.io/instructor-training/25-wrap-up/index.html' target='_blank'>Wrapping Up</a> </td> </tr>
       <tr> <td>16:30</td> <td>End of Training!</td> </tr>
     </table>
   </div>
